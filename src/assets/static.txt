@@ -1,0 +1,1 @@
+I am a plain text static file. I am a test file, too.

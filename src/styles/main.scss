@@ -1,0 +1,12 @@
+// Mixin hooks
+@import '../../bower_components/uikit/scss/uikit-mixins.scss';
+
+// Loads full ui-kit core
+@import '../../bower_components/uikit/scss/uikit.scss';
+
+// Individual components
+// @import '../../bower_components/uikit/scss/components/accordion.scss';
+
+// Customization
+@import './variables.scss';
+@import './custom.scss';

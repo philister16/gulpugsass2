@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate",
+  "description": "Just some boilerplate",
+  "main": "index.js",
+  "authors": [
+    "Somebody"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower": "*",
+    "install": "^1.0.4",
+    "uikit": "^2.27.2"
+  }
+}
